@@ -1,0 +1,1 @@
+{"user1": {"id": 1, "name": "Emily", "login": "emily@gmail.com", "password": "qwerty"}, "user2": {"id": 2, "name": "Jack", "login": "jack@gmail.com", "password": "qwerty2"}, "user3": {"id": 3, "name": "Tom", "login": "tom@gmail.com", "password": "qwerty3"}, "user4": {"id": 1, "login": "1", "password": "1"}, "user5": {"id": 1, "login": "1", "password": "1"}}
